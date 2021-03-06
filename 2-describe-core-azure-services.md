@@ -5,3 +5,6 @@
 - Explore Azure storage services
 - Explore Azure networking services
 
+## Explore Azure database and analytics services
+- explore > assess > migrate > cutover > optimize
+
